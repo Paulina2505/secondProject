@@ -1,0 +1,4 @@
+Se debe agregar un paquete en src/main/resources llamado templates y ahí agregar el código html de agenda, agendaNew e index.
+src/main/resources/templates/agenda.html
+src/main/resources/templates/agendaNew.html
+src/main/resources/templates/index.html
